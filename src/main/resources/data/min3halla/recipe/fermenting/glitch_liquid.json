@@ -1,0 +1,10 @@
+{
+  "type": "min3halla:fermenting",
+  "input": {
+    "tag": "min3halla:ferment/alcohol"
+  },
+  "output": {
+    "count": 2,
+    "id": "min3halla:glitch_liquid"
+  }
+}

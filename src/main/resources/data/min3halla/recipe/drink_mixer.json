@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "BCB",
+    "#M#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:purple_concrete"
+    },
+    "S": {
+      "item": "minecraft:redstone_lamp"
+    },
+    "B": {
+      "item": "minecraft:brewing_stand"
+    },
+    "M": {
+      "item": "minecraft:barrel"
+    },
+    "C": {
+      "item": "minecraft:observer"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "min3halla:drink_mixer"
+  }
+}

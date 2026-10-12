@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#P#",
+    "iHi",
+    "#B#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:purple_concrete"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    },
+    "B": {
+      "item": "min3halla:btc_can"
+    }
+  },
+  "result": {
+    "id": "min3halla:btc_filling_machine"
+  }
+}

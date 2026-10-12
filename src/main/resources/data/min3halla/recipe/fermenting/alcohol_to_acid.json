@@ -1,0 +1,9 @@
+{
+  "type": "min3halla:fermenting",
+  "input": {
+    "tag": "c:alcohol"
+  },
+  "output": {
+    "id": "min3halla:hyper_acid_x"
+  }
+}

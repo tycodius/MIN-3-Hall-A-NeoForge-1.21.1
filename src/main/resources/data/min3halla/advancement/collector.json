@@ -1,0 +1,56 @@
+{
+  "display": {
+    "icon": {
+      "id": "min3halla:rum"
+    },
+    "title": {
+      "translate": "advancement.min3halla.collector"
+    },
+    "description": {
+      "translate": "advancement.min3halla.collector.des"
+    }
+  },
+  "parent": "min3halla:drink_mixer",
+  "criteria": {
+    "rum": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "min3halla:rum"
+          }
+        ]
+      }
+    },
+    "absinthe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "min3halla:absinthe"
+          }
+        ]
+      }
+    },
+    "mulan_tea": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "min3halla:mulan_tea"
+          }
+        ]
+      }
+    },
+    "a_fedora": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "min3halla:a_fedora"
+          }
+        ]
+      }
+    }
+  }
+}

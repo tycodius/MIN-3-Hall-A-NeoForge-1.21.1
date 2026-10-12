@@ -1,0 +1,9 @@
+{
+  "type": "min3halla:mixing",
+  "extra": {
+    "item": "min3halla:absinthe"
+  },
+  "output": {
+    "id": "min3halla:absinthe"
+  }
+}
